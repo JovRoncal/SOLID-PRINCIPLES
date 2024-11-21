@@ -42,7 +42,7 @@ Definition: Objects of a superclass should be replaceable with objects of a subc
 Application in Flask: In Flask, LSP ensures that subclasses maintain the behavior expected from the parent class. If a parent class defines a method, its subclass should implement that method correctly and not violate the expected behavior.
 
 Code Example:
-
+[READ FULL ARTICLE ON HASHNODE] [https://angularbasicrouting.hashnode.dev/activity-33-solid-principles]
 
 # 4. Interface Segregation Principle (ISP)
 
@@ -51,7 +51,7 @@ Definition: A client should not be forced to implement interfaces it doesn't use
 Application in Flask: In Flask, ISP encourages creating smaller, more specific interfaces or classes. For instance, if a service requires multiple operations, it’s better to break it down into smaller, more focused services than to create a large service that has to implement every method.
 
 Code Example:
-
+[READ FULL ARTICLE ON HASHNODE] [https://angularbasicrouting.hashnode.dev/activity-33-solid-principles]
 
 
 # 5. Dependency Inversion Principle (DIP)
@@ -61,7 +61,7 @@ Definition: High-level modules should not depend on low-level modules. Both shou
 Application in Flask: In Flask applications, DIP encourages the use of dependency injection. High-level modules (e.g., controllers) should not directly instantiate lower-level modules (e.g., database access). Instead, they should rely on abstractions or interfaces.
 
 Code Example:
-
+[READ FULL ARTICLE ON HASHNODE] [https://angularbasicrouting.hashnode.dev/activity-33-solid-principles]
 
 # Real-World Use Case: E-commerce Application
 
